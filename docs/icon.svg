@@ -1,0 +1,51 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <title>Clustered Keywords</title>
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="46%" r="55%">
+      <stop offset="0%" stop-color="#C89B3C" stop-opacity="0.28" />
+      <stop offset="60%" stop-color="#C89B3C" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#C89B3C" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- badge ground -->
+  <rect x="0" y="0" width="512" height="512" rx="100" fill="#12181F" />
+  <rect x="0" y="0" width="512" height="512" rx="100" fill="url(#glow)" />
+  <rect x="6" y="6" width="500" height="500" rx="96" fill="none" stroke="#C89B3C" stroke-opacity="0.18" stroke-width="2" />
+
+  <!-- two tight keyword clusters, linked by one peer edge -->
+  <g stroke="#C89B3C" stroke-linecap="round">
+    <!-- cluster A intra-edges (left) -->
+    <line x1="120" y1="195" x2="120" y2="250" stroke-width="6" />
+    <line x1="120" y1="250" x2="175" y2="235" stroke-width="6" />
+    <line x1="175" y1="235" x2="120" y2="195" stroke-width="6" />
+    <!-- cluster B intra-edges (right) -->
+    <line x1="392" y1="317" x2="392" y2="262" stroke-width="6" />
+    <line x1="392" y1="262" x2="337" y2="277" stroke-width="6" />
+    <line x1="337" y1="277" x2="392" y2="317" stroke-width="6" />
+    <!-- peer edge bridging the two clusters' representative terms -->
+    <line x1="175" y1="235" x2="337" y2="277" stroke-width="3" stroke-dasharray="4 10" stroke-opacity="0.6" />
+  </g>
+
+  <!-- cluster A nodes -->
+  <g fill="#C89B3C">
+    <circle cx="120" cy="195" r="12" />
+    <circle cx="120" cy="250" r="12" />
+    <circle cx="175" cy="235" r="15" /> <!-- representative term: slightly larger -->
+  </g>
+  <!-- cluster B nodes -->
+  <g fill="#C89B3C">
+    <circle cx="392" cy="317" r="12" />
+    <circle cx="392" cy="262" r="12" />
+    <circle cx="337" cy="277" r="15" /> <!-- representative term: slightly larger -->
+  </g>
+
+  <!-- hub -->
+  <circle cx="256" cy="256" r="64" fill="#0A0D11" stroke="#C89B3C" stroke-width="8" />
+
+  <!-- tag glyph as the hub, standing in for "keyword" -->
+  <g fill="none" stroke="#EDE6D6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M222,256 L242,236 L292,236 L292,276 L242,276 Z" />
+    <circle cx="238" cy="256" r="6" />
+  </g>
+</svg>

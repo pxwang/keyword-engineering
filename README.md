@@ -1,3 +1,5 @@
+<img src="docs/social-preview.png" width="640" alt="Cluster the keywords — a badge showing two linked keyword clusters feeding into a tag-shaped hub">
+
 # Keyword Engineering
 
 [![Tests](https://github.com/pxwang/keyword-engineering/actions/workflows/tests.yml/badge.svg)](https://github.com/pxwang/keyword-engineering/actions/workflows/tests.yml)
