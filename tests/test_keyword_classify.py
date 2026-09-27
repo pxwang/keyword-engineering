@@ -5,7 +5,6 @@ import pytest
 import keyword_classify
 from keyword_classify import classify, load_categories
 
-
 # ---- load_categories ---------------------------------------------------------
 
 def test_load_categories_parses_hints_and_threshold(tmp_path):

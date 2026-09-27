@@ -30,11 +30,19 @@ force one. At the ~500-keyword scale of the datasets here, device choice doesn't
 meaningfully affect runtime; it starts mattering around 10k+ keywords (see *Further
 work* below).
 
-## Testing
+## Testing and linting
 
 ```bash
+ruff check .
 pytest
 ```
+
+Linting is [`ruff`](https://docs.astral.sh/ruff/), configured in `pyproject.toml` with
+its own default rules plus import sorting (`I`) and bugbear (`B`). `E501` (line too
+long) is deliberately left disabled — several argparse `help=` strings are long single
+lines by design, and wrapping them hurts readability more than it helps; this matches
+ruff's own default philosophy of leaving E501 off. Both `ruff check .` and `pytest` run
+in CI on every push (see the badge at the top of this file).
 
 Unit tests for the deterministic logic in all four modules — `load_keywords`'s cpc
 interpolation, `cluster_by_threshold`'s union-find grouping, `rank_terms`'s

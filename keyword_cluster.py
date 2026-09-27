@@ -69,7 +69,7 @@ def rank_terms(df: pd.DataFrame, sim: np.ndarray) -> pd.DataFrame:
     rep_index_by_group = {df.loc[i, "group"]: i for i in rep_row_idx}
 
     similarity_to_rep = np.empty(len(df))
-    for row_i, group in zip(df.index, df["group"]):
+    for row_i, group in zip(df.index, df["group"], strict=True):
         similarity_to_rep[row_i] = sim[row_i, rep_index_by_group[group]]
 
     df["similarity_to_rep"] = similarity_to_rep

@@ -1,10 +1,8 @@
 import numpy as np
-import pandas as pd
 import pytest
 
 import keyword_common
 from keyword_common import embed_keywords, load_keywords
-
 
 # ---- load_keywords ---------------------------------------------------------
 

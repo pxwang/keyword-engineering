@@ -13,7 +13,6 @@ from keyword_cluster import (
     write_report,
 )
 
-
 # ---- UnionFind ---------------------------------------------------------
 
 def test_union_find_basic():

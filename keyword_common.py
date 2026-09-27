@@ -110,11 +110,11 @@ def embed_keywords(
                 "INSERT OR REPLACE INTO embeddings (model, keyword, embedding) VALUES (?, ?, ?)",
                 [
                     (model_name, term, emb.astype(np.float32).tobytes())
-                    for term, emb in zip(missing, fresh)
+                    for term, emb in zip(missing, fresh, strict=True)
                 ],
             )
             conn.commit()
-            cached.update(zip(missing, fresh))
+            cached.update(zip(missing, fresh, strict=True))
 
         return np.stack([cached[t] for t in terms])
     finally:
