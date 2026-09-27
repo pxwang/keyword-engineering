@@ -1,0 +1,270 @@
+# Industry categories used by keyword_classify.py to bucket keywords before clustering.
+#
+# The 31 category names started from a real ad-industry taxonomy rather than being
+# invented from scratch, transcribed by hand (not fetched live - if the source taxonomy
+# changes, this file goes stale until someone updates it). Everything else in this file
+# - the hint phrases, the unknown_threshold, the whole YAML structure - is this
+# project's own addition, not sourced externally.
+#
+# `hints` are example keyword-style phrases for each category, used to build a richer
+# anchor embedding than the bare category name alone (a single short label like "Travel"
+# doesn't carry enough signal to embed well against real keyword phrasing - see the
+# project README for the concrete case this fixed: "hotel" was scoring higher on
+# "Restaurants & Food" than "Travel" using the bare label alone). Add more hints to a
+# category, or edit existing ones, to help it match your specific keyword data better.
+#
+# `unknown_threshold`: a keyword whose best category_sim falls below this value is
+# labeled "Unknown" instead of being forced into its nearest (but poor) category match.
+# 0.35 is a data-driven starting point (see README), not a universal constant - lower it
+# to force more assignments, raise it to be more conservative about weak matches.
+
+unknown_threshold: 0.35
+
+categories:
+  Animals & Pets:
+    hints:
+      - pet supplies
+      - dog grooming
+      - veterinarian near me
+      - pet adoption
+      - dog training
+
+  Arts & Entertainment:
+    hints:
+      - movie tickets
+      - concert tickets
+      - art gallery
+      - museum tickets
+      - live music events
+
+  Attorneys & Legal Services:
+    hints:
+      - personal injury lawyer
+      - divorce attorney
+      - criminal defense lawyer
+      - legal advice
+      - law firm near me
+
+  Automotive -- For Sale:
+    hints:
+      - used cars for sale
+      - car dealership
+      - buy a car
+      - new car inventory
+      - certified pre owned vehicles
+
+  Automotive -- Repair, Service & Parts:
+    hints:
+      - auto repair shop
+      - oil change near me
+      - car parts
+      - brake repair
+      - auto body shop
+
+  Beauty & Personal Care:
+    hints:
+      - hair salon
+      - nail salon
+      - spa services
+      - skincare products
+      - makeup artist
+
+  Business Opportunities:
+    hints:
+      - franchise opportunities
+      - start a business
+      - business for sale
+      - investment opportunities
+      - become a distributor
+
+  Business Services:
+    hints:
+      - accounting services
+      - payroll services
+      - business consulting
+      - office supplies
+      - commercial cleaning services
+
+  Career & Employment:
+    hints:
+      - job search
+      - job openings near me
+      - hiring now
+      - resume writing service
+      - career opportunities
+
+  Industrial & Commercial:
+    hints:
+      - industrial equipment
+      - commercial supplies
+      - manufacturing services
+      - wholesale distributor
+      - industrial machinery
+
+  Community, Garage Sales & Organizations:
+    hints:
+      - garage sale near me
+      - community events
+      - nonprofit organization
+      - volunteer opportunities
+      - local classifieds
+
+  Computers, Telephony & Internet:
+    hints:
+      - computer repair
+      - internet service provider
+      - cell phone plans
+      - laptop for sale
+      - tech support
+
+  Dentists & Dental Services:
+    hints:
+      - dentist near me
+      - teeth whitening
+      - dental implants
+      - orthodontist
+      - emergency dental care
+
+  Education & Instruction:
+    hints:
+      - online courses
+      - college degree programs
+      - tutoring services
+      - trade school
+      - online certification
+
+  Farming & Agriculture:
+    hints:
+      - farm equipment
+      - livestock feed
+      - agricultural supplies
+      - tractor for sale
+      - crop insurance
+
+  Finance & Insurance:
+    hints:
+      - car insurance quotes
+      - life insurance
+      - home insurance
+      - personal loans
+      - mortgage rates
+
+  Restaurants & Food:
+    hints:
+      - restaurants near me
+      - food delivery
+      - pizza delivery
+      - best restaurants
+      - catering services
+
+  Government & Politics:
+    hints:
+      - dmv appointment
+      - social security office
+      - government jobs
+      - voter registration
+      - state benefits
+
+  Health & Fitness:
+    hints:
+      - gym membership
+      - personal trainer
+      - weight loss program
+      - yoga classes
+      - nutrition coach
+
+  Home & Home Improvement:
+    hints:
+      - home renovation
+      - plumber near me
+      - roof repair
+      - hvac repair
+      - handyman services
+
+  Personal Services (Weddings, Cleaners, etc.):
+    hints:
+      - wedding planner
+      - house cleaning service
+      - wedding venues
+      - event planning
+      - dry cleaning near me
+
+  Physicians & Surgeons:
+    hints:
+      - doctor near me
+      - urgent care clinic
+      - cosmetic surgeon
+      - primary care physician
+      - medical specialist
+
+  Real Estate:
+    hints:
+      - homes for sale
+      - real estate agent
+      - apartments for rent
+      - mortgage lender
+      - property listings
+
+  Religion & Spirituality:
+    hints:
+      - church near me
+      - bible study
+      - spiritual retreat
+      - religious services
+      - meditation classes
+
+  Apparel / Fashion & Jewelry:
+    hints:
+      - clothing store
+      - jewelry store
+      - engagement rings
+      - designer handbags
+      - shoe store
+
+  Shopping, Collectibles & Gifts (General):
+    hints:
+      - gift shop
+      - online shopping deals
+      - collectibles for sale
+      - gift baskets
+      - discount store
+
+  Electronics & Photo:
+    hints:
+      - camera store
+      - buy a laptop
+      - electronics repair
+      - smart tv deals
+      - photography equipment
+
+  Furniture:
+    hints:
+      - furniture store
+      - buy a couch
+      - mattress sale
+      - home furniture
+      - office furniture
+
+  Sports & Recreation:
+    hints:
+      - sporting goods store
+      - gym equipment
+      - golf clubs
+      - bike shop
+      - outdoor recreation gear
+
+  Travel:
+    hints:
+      - flight booking
+      - hotel reservations
+      - vacation packages
+      - car rental
+      - cruise deals
+
+  Toys & Hobbies:
+    hints:
+      - toy store
+      - hobby shop
+      - video games
+      - board games
+      - model kits

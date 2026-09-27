@@ -1,0 +1,522 @@
+keyword,cpc_low,cpc_high,search_volume,competition,source_niche
+subarus,2.05,3.98,1220000,High,car_dealer
+harleydavidson,0.51,1.08,1000000,Low,car_dealer
+car dealerships near me,1.48,6.74,673000,High,car_dealer
+auto dealers near me,1.48,6.74,673000,High,car_dealer
+auto dealerships near me,1.48,6.74,673000,High,car_dealer
+used vehicles for sale near me,0.78,3.75,450000,High,car_dealer
+used auto sales near me,0.78,3.75,450000,High,car_dealer
+ford dealership near me,1.44,6.03,368000,High,car_dealer
+toyota dealer near me,0.9,4.99,368000,High,car_dealer
+dealerships near me,1.46,5.5,368000,High,car_dealer
+toyota near me,1.06,5.34,368000,Medium,car_dealer
+toyota dealership,0.94,5.0,301000,High,car_dealer
+dealer toyota,0.94,5.0,301000,High,car_dealer
+used cars for sale,0.54,2.94,246000,High,car_dealer
+honda dealership,1.27,5.06,246000,High,car_dealer
+ford dealership,1.49,5.82,246000,High,car_dealer
+honda dealership near me,1.04,4.06,246000,High,car_dealer
+chevy dealer near me,1.41,5.69,246000,High,car_dealer
+car dealerships,1.17,6.0,246000,Medium,car_dealer
+car dealer,1.66,6.4,246000,Low,car_dealer
+dealer ford,1.49,5.82,246000,High,car_dealer
+honda car dealer near me,1.04,4.06,246000,High,car_dealer
+pre owned cars for sale,0.54,2.94,246000,High,car_dealer
+used car dealerships near me,1.11,4.68,201000,High,car_dealer
+autonation,0.76,4.26,201000,High,car_dealer
+rental cars avis,0.88,2.99,1500000,Low,car_rental
+rent car,1.26,3.8,823000,High,car_rental
+car rental national,2.14,3.27,823000,Low,car_rental
+car rental near me,1.14,3.39,673000,High,car_rental
+vehicle rental near me,1.14,3.39,673000,High,car_rental
+auto rental near me,1.14,3.39,673000,High,car_rental
+car rental agencies near me,1.14,3.39,673000,High,car_rental
+enterprise rentals,1.43,3.75,450000,Medium,car_rental
+turbo car rentals,0.05,1.5,246000,Medium,car_rental
+costco car hire,0.87,3.98,246000,Low,car_rental
+enterprise near me,1.43,1.93,201000,Medium,car_rental
+hertz near me,0.8,3.49,201000,Low,car_rental
+cheap car rentals,1.44,3.98,165000,High,car_rental
+car rental companies,1.26,4.61,165000,Medium,car_rental
+car rental company,1.26,4.61,165000,Medium,car_rental
+car rental agencies,1.26,4.61,165000,Medium,car_rental
+cheap auto rentals,1.44,3.98,165000,High,car_rental
+alamo car rentals,1.18,3.05,165000,Medium,car_rental
+enterprise rental cars,1.03,3.09,135000,Medium,car_rental
+kayak car rental,0.75,3.29,110000,Low,car_rental
+budget car rental near me,0.64,2.87,110000,Low,car_rental
+truck rentals for moving,1.99,9.88,110000,High,car_rental
+sixt car rentals,0.58,2.57,110000,Medium,car_rental
+budget rental near me,0.64,2.87,110000,Low,car_rental
+priceline car rental,0.9,3.34,90500,Medium,car_rental
+repair water heater near me,9.94,81.81,90500,Low,home_repair
+windows replacement near me,5.26,84.52,60500,Low,home_repair
+home repair near me,1.14,6.08,40500,Medium,home_repair
+home heater repair near me,0.29,8.15,40500,Low,home_repair
+home repair,0.83,16.32,33100,Low,home_repair
+septic maintenance near me,3.29,22.64,33100,Medium,home_repair
+ac companies near me,1.86,92.97,27100,High,home_repair
+handyman services near me,2.48,11.16,22200,Medium,home_repair
+drywall repairs near me,3.79,18.72,22200,High,home_repair
+entry door replacement,0.29,1.96,18100,Low,home_repair
+home repair services,1.24,8.73,14800,Low,home_repair
+house repair services,1.24,8.73,14800,Low,home_repair
+exterior faucet replacement,0.37,19.36,14800,High,home_repair
+ac repair company,0.25,41.99,12100,Low,home_repair
+house window replacement,1.31,31.62,9900,High,home_repair
+siding replacement cost,0.3,16.79,9900,Medium,home_repair
+gutters replacement,9.16,80.0,9900,Medium,home_repair
+home repair contractors,1.77,25.0,9900,Medium,home_repair
+windows glass replacement near me,3.01,18.01,9900,High,home_repair
+contractors for home repairs,1.77,25.0,9900,Medium,home_repair
+home repair services near me,0.92,3.82,8100,Low,home_repair
+home maintenance,0.87,12.67,8100,Low,home_repair
+average price of roof replacement,3.51,14.5,8100,High,home_repair
+windows glass repair near me,3.12,13.63,8100,High,home_repair
+heating and ac repair near me,0.45,54.12,6600,High,home_repair
+handyman,2.84,11.27,165000,Low,home_repair
+garage door repairman near me,14.79,75.0,165000,Medium,home_repair
+handyman near me,2.79,11.87,110000,High,home_repair
+handyperson near me,2.79,11.87,110000,High,home_repair
+handyman hal,0.13,0.25,74000,Low,home_repair
+handyman services,2.92,11.62,49500,Low,home_repair
+home repairman near me,1.14,6.08,40500,Medium,home_repair
+window repairman near me,4.49,18.56,40500,High,home_repair
+handyman contractors near me,2.48,11.16,22200,Medium,home_repair
+drywall repairman near me,3.79,18.72,22200,High,home_repair
+mister handyman,1.71,7.0,18100,Medium,home_repair
+garage repairman near me,20.53,88.09,14800,High,home_repair
+home repairs services,1.24,8.73,14800,Low,home_repair
+ace handyman services,2.0,8.77,12100,High,home_repair
+home maintenance services,2.15,11.5,8100,Medium,home_repair
+door repairman near me,3.58,17.98,8100,High,home_repair
+handyman's hardware,0.15,0.88,8100,Low,home_repair
+local handyman,3.07,12.62,6600,Medium,home_repair
+carpenter services,2.49,10.66,6600,Low,home_repair
+boiler repairman near me,2.33,51.29,6600,Medium,home_repair
+the handyman,1.55,6.98,5400,Low,home_repair
+handyman plumbers near me,3.09,37.94,4400,High,home_repair
+local handyman services,2.99,12.09,4400,High,home_repair
+family handyman,0.62,6.08,4400,Medium,home_repair
+plumbers near me,10.61,83.55,823000,Medium,home_repair
+plumbers close to me,10.61,83.55,823000,Medium,home_repair
+near me plumber,10.61,83.55,823000,Medium,home_repair
+plumber,9.86,83.87,673000,Low,home_repair
+emergency plumber near me,11.06,100.0,110000,Low,home_repair
+water heater repair near me,9.94,81.81,90500,Low,home_repair
+plumbing services,1.27,67.5,90500,Low,home_repair
+emergency plumber,22.81,111.57,74000,Low,home_repair
+plumbing frozen pipes,0.35,49.63,74000,Low,home_repair
+plumbing services near me,2.66,71.25,60500,Medium,home_repair
+plumbing companies,12.0,75.43,60500,Low,home_repair
+24 hour plumber near me,2.5,85.0,49500,Low,home_repair
+plumbing companies near me,12.44,79.79,49500,High,home_repair
+plumbing repair,0.62,6.15,33100,Low,home_repair
+local plumbers,0.78,38.75,27100,High,home_repair
+plumbing repair near me,1.27,61.78,22200,Low,home_repair
+local plumber near me,6.82,74.1,18100,High,home_repair
+commercial plumbers near me,13.05,84.82,18100,Low,home_repair
+nearest plumber,0.56,27.64,18100,High,home_repair
+tankless water heater repair,8.31,81.35,18100,Low,home_repair
+rheem water heater repair,7.97,60.85,18100,Low,home_repair
+tub faucet replacement,0.27,9.92,18100,High,home_repair
+cheap plumbers near me,9.44,57.19,14800,High,home_repair
+best plumbers near me,8.78,69.72,14800,High,home_repair
+affordable plumbers near me,9.44,57.19,14800,High,home_repair
+electrician,4.66,50.0,368000,Low,home_repair
+electrician near me,5.3,52.85,368000,High,home_repair
+electrictrician,4.66,50.0,368000,Low,home_repair
+electrical companies,8.28,62.42,90500,Medium,home_repair
+electric companies near me,5.16,47.14,49500,High,home_repair
+electrical contractor,3.53,31.87,49500,Low,home_repair
+electrical contractors near me,3.08,34.7,40500,Medium,home_repair
+electrical wiring,0.25,3.8,33100,High,home_repair
+wired electrical,0.25,3.8,33100,High,home_repair
+local electricians,2.3,38.66,18100,Medium,home_repair
+residential electrician,2.87,39.28,18100,Low,home_repair
+residential electricians,2.87,39.28,18100,Low,home_repair
+emergency electrician near me,7.08,64.19,14800,Low,home_repair
+commercial electrician,3.56,46.35,14800,Low,home_repair
+journeyman electrician,1.47,12.72,14800,Low,home_repair
+emergency electrician,8.45,62.13,12100,Low,home_repair
+electrician emergency,8.45,62.13,12100,Low,home_repair
+electrical repairs,2.66,44.71,12100,Low,home_repair
+commercial electrical,0.44,17.69,12100,Medium,home_repair
+electricians in my area,1.54,8.94,9900,High,home_repair
+electrical services near me,0.87,46.96,9900,Low,home_repair
+electrical repair near me,2.34,42.62,9900,Low,home_repair
+electrical near me,2.25,50.11,9900,Medium,home_repair
+upgrade electrical panel,3.21,25.51,9900,Low,home_repair
+licensed electrician near me,4.0,38.29,8100,High,home_repair
+abcsupply,2.11,8.45,450000,Low,home_repair
+roofing,5.65,48.5,201000,Low,home_repair
+roofing companies near me,1.47,62.92,201000,High,home_repair
+roofers near me,1.67,55.0,201000,Medium,home_repair
+roof repair,1.43,53.31,165000,Low,home_repair
+metal roofing,3.61,18.0,110000,High,home_repair
+roofing companies,0.77,55.0,110000,Low,home_repair
+roof replacement,1.13,40.0,110000,Low,home_repair
+roof repair near me,7.42,63.99,90500,Medium,home_repair
+roofing contractors,0.72,20.86,90500,Low,home_repair
+roof shingles,0.56,10.9,90500,High,home_repair
+standing seam metal roof,2.3,13.13,60500,High,home_repair
+gable roof,2.06,11.94,49500,Low,home_repair
+gable end roof,2.06,11.94,49500,Low,home_repair
+roofing contractors near me,0.67,4.64,40500,High,home_repair
+roof leak repair,1.17,46.74,40500,Medium,home_repair
+roof inspection,11.79,71.01,40500,Low,home_repair
+asphalt shingles,0.96,10.7,40500,Medium,home_repair
+roofing services,1.37,39.99,33100,Low,home_repair
+metal roof installation,0.58,19.76,33100,Low,home_repair
+asphalt shingle roof,3.09,15.7,33100,Low,home_repair
+roofing installation,0.44,23.35,33100,Low,home_repair
+roof replacement cost,4.37,22.37,27100,Medium,home_repair
+tpo roofing,2.94,25.0,27100,Medium,home_repair
+architectural shingles,0.41,7.79,27100,High,home_repair
+hotel,1.48,4.13,45500000,Low,hotel
+hotels near me,1.19,2.99,11100000,Low,hotel
+marriott,1.56,20.0,1500000,Low,hotel
+great wolf lodge,0.03,0.7,1500000,Low,hotel
+hilton,0.37,2.27,1500000,Low,hotel
+marriott bonvoy,0.87,20.0,1000000,Low,hotel
+motels near me,0.79,2.21,823000,Medium,hotel
+motels,0.69,2.24,823000,Low,hotel
+holiday inn,0.31,1.51,673000,Low,hotel
+hyatt,0.2,1.85,673000,Low,hotel
+best western,0.7,1.44,550000,Low,hotel
+hampton inn,0.37,1.91,550000,Low,hotel
+choice hotels,0.65,3.1,368000,Medium,hotel
+bellagio las vegas,0.58,2.82,368000,Medium,hotel
+marriott hotel,1.19,20.0,368000,Low,hotel
+resort,0.63,2.71,368000,Low,hotel
+caesar palace,0.53,2.84,368000,High,hotel
+cheap hotels near me,1.04,3.01,301000,High,hotel
+all inclusive resorts,0.66,2.12,301000,Medium,hotel
+wynn las vegas,0.65,3.27,301000,High,hotel
+la quinta,0.48,1.84,301000,Low,hotel
+the venetian las vegas,0.57,3.41,301000,Medium,hotel
+quality inn,0.81,1.56,301000,Low,hotel
+embassy suites,0.29,1.45,301000,Low,hotel
+vacation rental by owner,0.29,1.1,2740000,Medium,hotel
+vacation rental,0.68,3.1,450000,Low,hotel
+beach houses,0.21,1.23,135000,Low,hotel
+beachfront house,0.21,1.23,135000,Low,hotel
+hocking hills cabins,0.27,1.23,60500,Medium,hotel
+vacation rentals in outer banks,0.58,2.35,60500,Medium,hotel
+holiday homes,0.67,3.5,40500,Low,hotel
+apartment holidays,0.4,2.88,40500,Low,hotel
+vrbo owner log in,5.49,19.55,40500,Low,hotel
+cabin rentals near me,0.25,0.97,33100,Medium,hotel
+vacation rentals near me,0.37,1.57,33100,Low,hotel
+condo rentals,0.36,1.36,33100,Medium,hotel
+vacation homes near me,0.37,1.57,33100,Low,hotel
+shores of panama resort,0.43,1.87,22200,Medium,hotel
+the shores of panama,0.43,1.87,22200,Medium,hotel
+summer rentals,0.35,2.57,22200,Low,hotel
+vacation home rentals,0.66,3.37,18100,Medium,hotel
+beach house rentals,0.37,1.64,18100,Medium,hotel
+vrbo vacation rentals,0.52,1.84,18100,Low,hotel
+beach vacations,0.27,2.1,18100,Low,hotel
+luxury rentals,0.81,3.5,18100,Low,hotel
+beach homes for rent,0.37,1.64,18100,Medium,hotel
+vrbo com,0.23,1.31,18100,Medium,hotel
+marriott homes and villas,6.85,7.5,14800,Low,hotel
+cabins in smoky mountains,0.41,1.92,14800,Medium,hotel
+statefarm insurance,3.21,23.79,1500000,Medium,insurance
+progressive insurance company,3.73,19.46,1000000,Medium,insurance
+car insurance quotes,47.03,149.27,823000,Medium,insurance
+bluecross blueshield,1.28,7.64,823000,Low,insurance
+bcbs,1.28,7.64,823000,Low,insurance
+auto insurance,41.33,139.32,673000,Medium,insurance
+health insurance plans,3.37,14.87,673000,Low,insurance
+automobile insurance,41.33,139.32,673000,Medium,insurance
+deltadental,0.39,5.52,673000,Low,insurance
+insurance,21.63,82.69,550000,Medium,insurance
+car insurance,39.21,128.82,550000,High,insurance
+libertymutual,1.65,27.74,550000,Medium,insurance
+term life insurance,11.44,43.55,450000,Low,insurance
+medicaid,2.0,6.24,450000,Low,insurance
+health insurance,4.6,16.34,368000,Medium,insurance
+geico car insurance,14.63,50.24,368000,Medium,insurance
+cheap car insurance,37.3,105.25,301000,High,insurance
+insurance quotes,42.87,114.25,301000,High,insurance
+renters insurance,13.69,34.94,301000,Medium,insurance
+medicare advantage plans,2.7,25.0,301000,Low,insurance
+covered california,0.85,10.55,301000,Medium,insurance
+dental insurance plans,2.17,8.26,301000,Low,insurance
+aaa insurance,4.91,25.2,246000,Medium,insurance
+hsa,0.37,3.11,246000,Low,insurance
+state farm ins,5.21,26.2,246000,Medium,insurance
+term life policy,11.44,43.55,450000,Low,insurance
+quotes insurance,42.87,114.25,301000,High,insurance
+life insurance,11.47,41.18,165000,Low,insurance
+insure a life,11.47,41.18,165000,Low,insurance
+whole life insurance,8.0,25.57,135000,Low,insurance
+ethos life insurance,5.43,22.5,135000,High,insurance
+life insurance whole life,8.0,25.57,135000,Low,insurance
+full life insurance,8.0,25.57,135000,Low,insurance
+newyork life,1.59,9.71,135000,Low,insurance
+coloniallife,0.09,11.82,135000,Medium,insurance
+annuity,0.52,6.31,110000,Medium,insurance
+met life dental,1.63,8.73,110000,Low,insurance
+life insurance quotes,13.68,55.23,90500,Medium,insurance
+life insurance policy,12.78,35.63,74000,High,insurance
+term life insurance quotes,1.01,58.07,60500,Low,insurance
+pacific life insurance company,6.65,31.41,60500,Low,insurance
+pacific life insurance,6.65,31.41,60500,Low,insurance
+term insurance quotes,1.01,58.07,60500,Low,insurance
+pacificlife,6.65,31.41,60500,Low,insurance
+nationallife,1.5,8.4,60500,Low,insurance
+met life pet insurance,5.24,15.01,49500,Medium,insurance
+life insurance companies,9.75,31.41,40500,High,insurance
+mutual of omaha life insurance,5.37,20.16,40500,High,insurance
+trustage life insurance,3.16,12.05,40500,Medium,insurance
+home insurance,35.07,138.09,165000,Low,insurance
+homeowners insurance,35.27,146.73,135000,Medium,insurance
+home insurance quote,41.38,154.18,135000,Medium,insurance
+house insurance quote,41.38,154.18,135000,Medium,insurance
+household insurance quote,41.38,154.18,135000,Medium,insurance
+home insurance quotation,41.38,154.18,135000,Medium,insurance
+homeowners insurance quote,48.93,162.89,110000,Low,insurance
+home owners insurance quote,48.93,162.89,110000,Low,insurance
+renters insurance quote,11.02,35.58,110000,Low,insurance
+renters insurance lemonade,3.21,31.0,110000,Medium,insurance
+state farm renters insurance,7.93,25.0,60500,Medium,insurance
+insurance agency,3.98,40.07,60500,Low,insurance
+cheap renters insurance,14.73,34.71,49500,Low,insurance
+affordable renters insurance,14.73,34.71,49500,Low,insurance
+cheap apartment insurance,14.73,34.71,49500,Low,insurance
+progressive house insurance,4.73,30.32,49500,Medium,insurance
+home insurance progressive,4.73,30.32,49500,Medium,insurance
+progressive homesite insurance,4.73,30.32,49500,Medium,insurance
+state farm home insurance,14.17,35.6,40500,Medium,insurance
+state farm homeowners insurance coverage,14.17,35.6,40500,Medium,insurance
+state farm home insurance coverage,14.17,35.6,40500,Medium,insurance
+hanover ins,0.2,5.8,40500,Low,insurance
+allstate renters insurance,6.03,32.12,33100,Medium,insurance
+geico home insurance,4.91,27.23,27100,Medium,insurance
+annuity what is,0.47,2.04,40500,Medium,insurance
+charitable gift annuity,1.53,6.77,33100,Low,insurance
+annuity calculators,1.57,4.67,33100,Medium,insurance
+fixed annuity,1.45,6.67,27100,Low,insurance
+survivor benefit plan,0.67,9.99,22200,Low,insurance
+fixed index annuity,1.5,5.21,14800,Medium,insurance
+voyaretirement,0.04,2.94,14800,Low,insurance
+americo life insurance,3.48,10.94,12100,Medium,insurance
+f&g life,2.24,10.05,12100,Low,insurance
+fg life,2.24,10.05,12100,Low,insurance
+calculating annuity payments,1.61,4.48,9900,Medium,insurance
+retirement annuity,1.51,9.1,6600,Low,insurance
+immediate annuity,2.0,14.71,6600,Low,insurance
+variable annuity,0.99,150.0,6600,Low,insurance
+variable life annuity,0.99,150.0,6600,Low,insurance
+talcott resolutions,11.93,24.01,6600,Low,insurance
+annuity rates,2.16,9.06,5400,High,insurance
+fixed annuity rates,1.93,7.64,5400,Medium,insurance
+structured settlements,18.87,33.93,5400,Medium,insurance
+fixed rate annuity rates,1.93,7.64,5400,Medium,insurance
+pacific life annuity,5.12,30.02,4400,Low,insurance
+myga,1.92,9.55,4400,Medium,insurance
+index annuity,1.67,7.1,4400,Medium,insurance
+f&g annuities and life,1.43,9.44,4400,Low,insurance
+jobs near me,0.23,4.69,3350000,Medium,job_search
+job openings near me,0.23,4.69,3350000,Medium,job_search
+job listings near me,0.23,4.69,3350000,Medium,job_search
+job search near me,0.23,4.69,3350000,Medium,job_search
+job postings near me,0.23,4.69,3350000,Medium,job_search
+near me hiring,0.23,4.69,3350000,Medium,job_search
+jobs hiring near me,0.35,5.93,1830000,Medium,job_search
+jobs hiring now near me,0.35,5.93,1830000,Medium,job_search
+job s,0.28,3.01,1500000,Low,job_search
+indeed job site,0.13,1.37,1220000,Low,job_search
+indeed website for jobs,0.13,1.37,1220000,Low,job_search
+careers at amazon,0.35,3.19,823000,Low,job_search
+amazon jobs careers,0.35,3.19,823000,Low,job_search
+part time jobs near me,0.17,4.67,673000,Low,job_search
+hiring near me part time,0.17,4.67,673000,Low,job_search
+part time job openings near me,0.17,4.67,673000,Low,job_search
+usps careers,1.0,1.38,368000,Low,job_search
+temp work near me,0.38,2.49,368000,Low,job_search
+us postal service careers,1.0,1.38,368000,Low,job_search
+us postal careers,1.0,1.38,368000,Low,job_search
+jobs indeed near me,0.13,1.27,301000,Low,job_search
+home depot career,0.14,1.88,301000,Low,job_search
+ups job openings,0.24,4.34,301000,Low,job_search
+hiring part time,0.19,4.99,301000,Low,job_search
+homedepot career,0.14,1.88,301000,Low,job_search
+jobs on indeed website,0.13,1.37,1220000,Low,job_search
+jobs for google,0.56,5.06,165000,Low,job_search
+jobs search websites,0.3,2.5,74000,Medium,job_search
+career search websites,0.3,2.5,74000,Medium,job_search
+site for searching jobs,0.3,2.5,74000,Medium,job_search
+best employment search websites,0.45,3.54,8100,Medium,job_search
+career google,1.03,8.47,4400,Low,job_search
+best website for jobs search,0.46,3.24,4400,Medium,job_search
+seo specialist hiring,0.16,3.26,2900,Low,job_search
+simplyhired con,0.19,2.26,2400,Low,job_search
+duckduckgo career,0.61,3.0,2400,Low,job_search
+entry level google jobs,0.96,6.04,1900,Low,job_search
+bioengineering jobs near me,0.14,1.77,1000,Low,job_search
+site to find jobs,0.38,4.0,880,Medium,job_search
+process engineer jobs near me,0.15,1.84,880,Low,job_search
+career civil engineering,1.0,5.51,880,Low,job_search
+best finding jobs website,0.53,3.56,590,Medium,job_search
+duckduck go jobs,0.37,2.53,590,Low,job_search
+electrical design engineer hiring,0.16,2.23,590,Low,job_search
+adzuna jobs,0.45,2.55,480,Medium,job_search
+aeronautical engineer jobs near me,0.2,1.94,480,Low,job_search
+engineering jobs list,0.88,7.74,390,Low,job_search
+engineering design jobs near me,0.22,2.08,390,Low,job_search
+engineer hiring,4.38,52.86,320,Low,job_search
+engineering tech jobs near me,0.16,2.54,320,Low,job_search
+mortgage calculater,0.15,2.47,2740000,Low,mortgage
+mortgage simulator,0.15,2.47,2740000,Low,mortgage
+mortgage c,0.15,2.47,2740000,Low,mortgage
+rocket morgage,1.75,13.48,1000000,Medium,mortgage
+mortgage rates today,1.32,4.01,673000,Low,mortgage
+mortgage loan rates today,1.32,4.01,673000,Low,mortgage
+mortage rates,1.44,4.35,550000,Low,mortgage
+home loan mortgage rates,1.44,4.35,550000,Low,mortgage
+fredom mortgage,0.6,0.6,550000,Low,mortgage
+bankrate mortgage rates,1.76,7.01,368000,Low,mortgage
+current mortgage rates,1.31,4.08,301000,Medium,mortgage
+mortgage lenders,8.66,29.17,301000,Low,mortgage
+30 year fixed mortgage rates,1.3,4.22,301000,Low,mortgage
+mortgage lender,8.66,29.17,301000,Low,mortgage
+current mortage rates,1.31,4.08,301000,Medium,mortgage
+current fixed mortgage rates,1.31,4.08,301000,Medium,mortgage
+mortgage loan lenders,8.66,29.17,301000,Low,mortgage
+current fixed rate mortgage rates,1.31,4.08,301000,Medium,mortgage
+current house mortgage rates,1.31,4.08,301000,Medium,mortgage
+30 yr fixed mortgage rate,1.3,4.22,301000,Low,mortgage
+30 year mortgage rates,0.92,3.88,201000,Low,mortgage
+bank of america mortgage rates,3.48,7.31,201000,Low,mortgage
+30 mortgage rates,0.92,3.88,201000,Low,mortgage
+bank of america mortgage interest rates,3.48,7.31,201000,Low,mortgage
+30 yr mortgage rates,0.92,3.88,201000,Low,mortgage
+pention,0.44,5.76,74000,Low,pension
+retirement pention,0.36,4.0,5400,Low,pension
+iam pention,2.52,11.68,2900,Low,pension
+social security pention,0.21,0.64,2400,Low,pension
+state pention,0.57,4.37,1900,Low,pension
+teacher pention,1.14,20.0,1600,Low,pension
+widow pention,0.12,1.84,1300,Low,pension
+gov pention,0.72,6.17,1000,Low,pension
+my pention,3.51,16.38,720,Low,pension
+ge pention,3.19,7.18,720,Low,pension
+private pention,2.05,9.27,590,Low,pension
+army pention,0.55,5.4,480,Low,pension
+peoples pention,2.94,6.72,390,Low,pension
+pention forecast,0.15,0.78,260,Low,pension
+sss pention,0.11,0.56,210,Low,pension
+pention wise,0.6,1.75,90,Low,pension
+senior care,1.74,10.44,246000,Low,senior_care
+senior caregiving,1.74,10.44,246000,Low,senior_care
+caring seniors,1.74,10.44,246000,Low,senior_care
+sr care,1.74,10.44,246000,Low,senior_care
+elderly care,1.04,9.05,201000,Low,senior_care
+elder care,1.04,9.05,201000,Low,senior_care
+carer for elderly,1.04,9.05,201000,Low,senior_care
+in home care services for seniors,0.66,8.13,110000,Low,senior_care
+in home caregivers for seniors,0.66,8.13,110000,Low,senior_care
+senior home care,1.35,11.54,90500,Low,senior_care
+care for elderly at home,0.6,8.53,90500,Low,senior_care
+elder care home care,0.6,8.53,90500,Low,senior_care
+instead home care,1.5,6.47,90500,Low,senior_care
+home instead healthcare,1.5,6.47,90500,Low,senior_care
+companionship care,1.89,7.38,90500,Low,senior_care
+home care services for elderly,0.6,9.29,60500,Medium,senior_care
+care services for elderly,1.45,9.97,60500,Medium,senior_care
+senior care service,0.6,6.52,60500,Low,senior_care
+senior home health care services,0.58,2.48,60500,Low,senior_care
+senior citizen care services,1.45,9.97,60500,Medium,senior_care
+home assistance care,2.33,8.76,60500,Low,senior_care
+homes for seniors,0.56,2.89,40500,High,senior_care
+retirement homes,2.76,10.89,33100,Low,senior_care
+always best care,2.72,6.45,33100,Low,senior_care
+always best care senior services,2.72,6.45,33100,Low,senior_care
+grocery store near me,0.26,4.56,9140000,Low,shopping
+thrift stores near me,0.43,3.55,5000000,Low,shopping
+stores near me,0.24,1.61,5000000,Medium,shopping
+grocery store,0.26,4.42,4090000,Low,shopping
+pawn shop near me,0.88,4.57,1830000,Low,shopping
+mall near me,0.22,1.68,1830000,Low,shopping
+marshalls near me,0.57,2.75,1830000,Low,shopping
+uni qlo,0.05,0.54,1830000,High,shopping
+kays jewelry,0.49,2.42,1500000,High,shopping
+thrift store,0.59,4.91,1500000,Low,shopping
+sephora near me,0.01,1.27,1220000,Medium,shopping
+groceries near me,0.32,8.27,1220000,Medium,shopping
+mall,0.22,1.46,1220000,Low,shopping
+antique stores near me,0.45,3.09,1220000,Low,shopping
+clothing stores near me,0.44,4.12,1000000,Medium,shopping
+dollar store near me,0.09,0.11,1000000,Low,shopping
+shopping,0.21,2.71,823000,Low,shopping
+louis vuitton purses,0.13,0.82,823000,High,shopping
+shopping near me,0.54,2.66,823000,Medium,shopping
+michaelkors,0.31,0.75,823000,High,shopping
+disneystore,0.09,0.94,823000,Medium,shopping
+lv purse,0.13,0.82,823000,High,shopping
+engagement rings,1.64,7.16,673000,High,shopping
+mother's day gifts,0.31,1.93,673000,High,shopping
+google flight tickets,0.4,2.56,20400000,Low,travel
+google airfares,0.4,2.56,20400000,Low,travel
+flights,0.44,2.2,7480000,Low,travel
+cheap flights,0.49,1.71,4090000,Low,travel
+expedia flights,0.22,0.99,1220000,Medium,travel
+expedia airline tickets,0.22,0.99,1220000,Medium,travel
+expedia plane tickets,0.22,0.99,1220000,Medium,travel
+expedia flight tickets,0.22,0.99,1220000,Medium,travel
+expedia airfare,0.22,0.99,1220000,Medium,travel
+allegiant airfare,0.01,0.94,1000000,Low,travel
+american airlines book flight,0.06,2.44,1000000,Low,travel
+united airlines flights,0.03,1.56,823000,Medium,travel
+united flights,0.03,1.56,823000,Medium,travel
+american airlines flights,0.03,1.57,550000,Low,travel
+plane tickets,0.28,1.12,450000,Medium,travel
+delta flights,0.05,1.3,450000,Low,travel
+delta airlines flights,0.05,1.3,450000,Low,travel
+kayak flights,0.21,0.9,368000,Medium,travel
+jetblue flights,0.18,1.29,368000,Medium,travel
+southwest airlines flights,0.21,2.79,368000,Low,travel
+jet blue flights,0.18,1.29,368000,Medium,travel
+kayak airline tickets,0.21,0.9,368000,Medium,travel
+swa flights,0.21,2.79,368000,Low,travel
+sw airlines flights,0.21,2.79,368000,Low,travel
+jetblue airlines flights,0.18,1.29,368000,Medium,travel
+love's travel stop,0.63,2.62,4090000,Low,travel
+skyscanners,0.17,0.97,1500000,Low,travel
+expedia airlines,0.22,0.99,1220000,Medium,travel
+tsa precheck,1.0,3.21,823000,Low,travel
+tourist attractions,0.2,1.8,550000,Low,travel
+travel,0.33,2.74,450000,Low,travel
+global entry,0.31,4.14,450000,Low,travel
+expedia hotels,0.43,1.5,368000,Medium,travel
+southwest flight,0.21,2.79,368000,Low,travel
+viking cruise,1.08,10.0,301000,Medium,travel
+airline tickets,0.4,1.7,246000,Medium,travel
+wedding venues,1.07,3.86,368000,Low,wedding
+wedding,0.3,3.88,301000,Low,wedding
+wedding guest gowns,0.38,2.02,301000,High,wedding
+wedding rings,1.1,4.2,246000,High,wedding
+wedding venues near me,0.99,3.57,246000,Medium,wedding
+bridesmaids,0.24,7.24,201000,Low,wedding
+mens wedding bands,1.27,4.25,165000,High,wedding
+male wedding bands,1.27,4.25,165000,High,wedding
+the knot find a couple,0.21,0.33,165000,Low,wedding
+the knot couple finder,0.21,0.33,165000,Low,wedding
+father of the bride,0.11,3.09,165000,Low,wedding
+wedding invites,1.48,5.49,135000,High,wedding
+bridal shops near me,0.92,4.12,135000,High,wedding
+wedding bands,1.3,5.16,110000,High,wedding
+wedding planner,1.73,5.42,110000,Medium,wedding
+elopement,0.48,3.17,110000,Low,wedding
+venues near me,1.13,3.75,90500,Medium,wedding
+mens gold wedding bands,1.21,4.96,90500,High,wedding
+bridal,0.28,2.79,90500,Medium,wedding
+zola wedding,0.03,3.15,74000,Low,wedding
+zola wedding website,0.75,2.3,74000,Low,wedding
+wedding cakes,0.36,1.86,74000,High,wedding
+mens wedding rings,1.26,4.35,60500,High,wedding
+wedding bands for women,0.9,3.94,60500,High,wedding
+bridal shops,0.95,4.36,60500,Medium,wedding
