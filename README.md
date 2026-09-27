@@ -1,5 +1,7 @@
 # Keyword Engineering
 
+[![Tests](https://github.com/pxwang/keyword-engineering/actions/workflows/tests.yml/badge.svg)](https://github.com/pxwang/keyword-engineering/actions/workflows/tests.yml)
+
 Three tools that share the same embedding pipeline (all-MiniLM-L6-v2), working on the
 same keyword+CPC data:
 
