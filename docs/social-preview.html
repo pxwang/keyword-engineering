@@ -1,0 +1,74 @@
+<!--
+  Source for docs/social-preview.png (1280x640). The emblem is inlined from
+  docs/icon.svg (everything below the badge ground); keep the two in sync.
+  Render from the repo root:
+    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new \
+      --disable-gpu --hide-scrollbars --force-device-scale-factor=1 \
+      --window-size=1280,640 --screenshot=docs/social-preview.png \
+      "file://$PWD/docs/social-preview.html"
+-->
+<html><head><style>
+html,body{margin:0;width:1280px;height:640px;background:#12171E;overflow:hidden;font-family:"SF Mono",Menlo,monospace}
+.glow{position:absolute;left:530px;top:-10px;width:660px;height:660px;background:radial-gradient(circle,rgba(200,155,60,.22) 0%,rgba(200,155,60,.07) 45%,rgba(200,155,60,0) 70%)}
+.emb{position:absolute;left:720px;top:80px;width:480px;height:480px}
+.txt{position:absolute;left:110px;top:0;height:640px;display:flex;flex-direction:column;justify-content:center;width:620px}
+.eye{color:#D4A847;font:600 20px/1.2 -apple-system,"Helvetica Neue",sans-serif;letter-spacing:2.5px}
+h1{color:#EFE6D4;font-size:66px;line-height:1.08;margin:14px 0 36px;font-weight:700}
+.rule{width:200px;height:2px;background:#8A6E33;margin-bottom:36px}
+.sub{color:#A9AFB8;font:500 20px/1.4 -apple-system,"Helvetica Neue",sans-serif}
+.url{color:#6E757E;font-size:17px;margin-top:14px}
+</style></head><body>
+<div class="glow"></div>
+<svg class="emb" viewBox="40 40 432 432">  <!-- embedding space: similarity ring shared by all clusters -->
+  <circle cx="256" cy="256" r="150" fill="none" stroke="#C89B3C" stroke-width="10" />
+
+  <g stroke="#C89B3C" stroke-linecap="round">
+    <!-- spokes: hub keyword to each cluster's representative term -->
+    <line x1="208" y1="208" x2="150" y2="150" stroke-width="10" />
+    <line x1="304" y1="208" x2="362" y2="150" stroke-width="10" />
+    <line x1="304" y1="304" x2="362" y2="362" stroke-width="10" />
+    <line x1="208" y1="304" x2="150" y2="362" stroke-width="10" />
+    <!-- four tight keyword clusters (triangles) seated on the ring -->
+    <line x1="150" y1="150" x2="100" y2="151" stroke-width="7" />
+    <line x1="100" y1="151" x2="151" y2="100" stroke-width="7" />
+    <line x1="151" y1="100" x2="150" y2="150" stroke-width="7" />
+    <line x1="362" y1="150" x2="361" y2="100" stroke-width="7" />
+    <line x1="361" y1="100" x2="412" y2="151" stroke-width="7" />
+    <line x1="412" y1="151" x2="362" y2="150" stroke-width="7" />
+    <line x1="362" y1="362" x2="412" y2="361" stroke-width="7" />
+    <line x1="412" y1="361" x2="361" y2="412" stroke-width="7" />
+    <line x1="361" y1="412" x2="362" y2="362" stroke-width="7" />
+    <line x1="150" y1="362" x2="151" y2="412" stroke-width="7" />
+    <line x1="151" y1="412" x2="100" y2="361" stroke-width="7" />
+    <line x1="100" y1="361" x2="150" y2="362" stroke-width="7" />
+  </g>
+
+  <!-- cluster nodes; the representative term (on the ring) is larger -->
+  <g fill="#C89B3C">
+    <circle cx="150" cy="150" r="17" />
+    <circle cx="100" cy="151" r="12" />
+    <circle cx="151" cy="100" r="12" />
+    <circle cx="362" cy="150" r="17" />
+    <circle cx="361" cy="100" r="12" />
+    <circle cx="412" cy="151" r="12" />
+    <circle cx="362" cy="362" r="17" />
+    <circle cx="412" cy="361" r="12" />
+    <circle cx="361" cy="412" r="12" />
+    <circle cx="150" cy="362" r="17" />
+    <circle cx="151" cy="412" r="12" />
+    <circle cx="100" cy="361" r="12" />
+  </g>
+
+  <!-- hub -->
+  <circle cx="256" cy="256" r="64" fill="#0A0D11" stroke="#C89B3C" stroke-width="8" />
+
+  <!-- tag glyph as the hub, standing in for "keyword" -->
+  <g fill="none" stroke="#EDE6D6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M216,256 L238,234 L296,234 L296,278 L238,278 Z" />
+    <circle cx="236" cy="256" r="6" />
+  </g></svg>
+<div class="txt"><div class="eye">FROM RAW SEARCH TERMS TO RANKED CLUSTERS</div>
+<h1>Cluster the<br>keywords.</h1><div class="rule"></div>
+<div class="sub">Classification, clustering &amp; peer-finding for keyword data</div>
+<div class="url">github.com/pxwang/keyword-engineering</div></div>
+</body></html>
